@@ -76,9 +76,6 @@ npm start
   - Search
   - MoviesSuggestion
 
-## Screen Shot
-
-Live Demo : ([Live Demo](https://netflixgpt-4pnn.onrender.com/))
 
 ## Screen Shot
 
