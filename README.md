@@ -111,15 +111,7 @@ npm start
 
   ![Watch Now Page](https://github.com/King4584/NetflixGPT/blob/main/public/screenshot/08-Watch.png)
 
-# 💖 Support This Project
 
-Thank you for taking the time to explore NetflixGPT! This project represents an in-depth implementation of features extracted from the inspiring course "Namaste-React" by Akshay Saini. It's been a rewarding journey, and I'm genuinely grateful for the opportunity to create and share this with the community.
-
-I want to express my heartfelt thanks to everyone who has shown interest and provided feedback. Your support and involvement mean a lot to me.
-
-If you have any questions, suggestions, or just want to connect, feel free to reach out.
-
-`<Happy coding />`
 
 ## 🙏 Thank You 🙏
 
